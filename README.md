@@ -1,2 +1,4 @@
 # tee
 
+hello
+ welcome
